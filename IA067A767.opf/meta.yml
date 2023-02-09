@@ -1,0 +1,16 @@
+id: IA067A767
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:37:40.096345
+last_modified: 2023-02-09 14:37:40.096483
+source_metadata:
+  title: Vimalakīrtinirdeśa
+  language: zh
+bases:
+  A1F2:
+    base_file: A1F2.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
